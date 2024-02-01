@@ -110,19 +110,19 @@ if (button && input) {
 //   },
 // };
 
-type User = {
-  name: string;
-  age: number;
-  role?: string; // ? - поле не обов'язкове
-};
+// type User = {
+//   name: string;
+//   age: number;
+//   role?: string; // ? - поле не обов'язкове
+// };
 
-const user: User = {
-  name: "bob",
-  age: 12,
-};
+// const user: User = {
+//   name: "bob",
+//   age: 12,
+// };
 
-const admin: User = {
-  name: "John",
-  age: 23,
-  role: "Admin",
-};
+// const admin: User = {
+//   name: "John",
+//   age: 23,
+//   role: "Admin",
+// };
